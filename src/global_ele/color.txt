@@ -1,0 +1,15 @@
+#E5EEC1 --> yellowish
+#A2D5AC --> greenish
+#3AADA8 --> blueish
+#557C83 --> greyish
+#1C1C1E --> blackish
+
+Home
+About
+Works
+    |   
+    |--------------|
+    \/             \/
+illustrations    crafts
+
+Contact me
