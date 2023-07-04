@@ -41,7 +41,7 @@
         grid-template-columns: max-content;
     }   
     .work-nav-container{
-        grid-template-columns: repeat(2, max-content);
+        column-gap: 1rem;
     }
 }
 
