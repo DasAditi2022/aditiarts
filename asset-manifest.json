@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/aditiarts/static/css/main.f8a61a0a.css",
+    "main.js": "/aditiarts/static/js/main.fddfb33c.js",
+    "static/js/787.126fee80.chunk.js": "/aditiarts/static/js/787.126fee80.chunk.js",
+    "static/media/profile.jpg": "/aditiarts/static/media/profile.e8168bab9a08c2a1dc6c.jpg",
+    "static/media/craft3.jpg": "/aditiarts/static/media/craft3.81d696a9d0d68903ff99.jpg",
+    "static/media/illu4.jpg": "/aditiarts/static/media/illu4.243e7975a31c126edf0f.jpg",
+    "static/media/craft2.jpg": "/aditiarts/static/media/craft2.efac3f3f74e1b1a234d6.jpg",
+    "static/media/illu5.jpg": "/aditiarts/static/media/illu5.008145df9e92369e1d84.jpg",
+    "static/media/man2.jpg": "/aditiarts/static/media/man2.111492caa789f8a148d1.jpg",
+    "static/media/illu3.jpg": "/aditiarts/static/media/illu3.d2cf977027f0ee6aaf34.jpg",
+    "static/media/illu1.jpg": "/aditiarts/static/media/illu1.bc976a1a186dd8bbbcc7.jpg",
+    "static/media/man3.jpg": "/aditiarts/static/media/man3.905ed77e871615df0490.jpg",
+    "static/media/illu2.jpg": "/aditiarts/static/media/illu2.5120437bc6a6b1e98370.jpg",
+    "static/media/craft1.jpg": "/aditiarts/static/media/craft1.4417e431531846a08b81.jpg",
+    "static/media/man1.jpg": "/aditiarts/static/media/man1.797a005882381223fb5f.jpg",
+    "static/media/illu6.jpg": "/aditiarts/static/media/illu6.099621cafda4a465a861.jpg",
+    "static/media/about.jpg": "/aditiarts/static/media/about.497aadf09e72a710999e.jpg",
+    "index.html": "/aditiarts/index.html",
+    "main.f8a61a0a.css.map": "/aditiarts/static/css/main.f8a61a0a.css.map",
+    "main.fddfb33c.js.map": "/aditiarts/static/js/main.fddfb33c.js.map",
+    "787.126fee80.chunk.js.map": "/aditiarts/static/js/787.126fee80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8a61a0a.css",
+    "static/js/main.fddfb33c.js"
+  ]
+}
