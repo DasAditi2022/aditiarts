@@ -39,6 +39,9 @@
 @media screen and (max-width: 768px){
     .work-detail-container{
         grid-template-columns: max-content;
-    }    
+    }   
+    .work-nav-container{
+        grid-template-columns: repeat(2, max-content);
+    }
 }
 
