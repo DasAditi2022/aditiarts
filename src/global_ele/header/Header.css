@@ -11,7 +11,7 @@
 }
 
 .nav{
-    height: calc(var(--header-height)+1.5rem);
+    height: var(--header-height);
     display: flex;
     justify-content: space-between;
     column-gap: 1rem;
